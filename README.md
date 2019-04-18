@@ -65,6 +65,12 @@
 
 #### Libraries
 
+* [React.js]
+* [Vue.js]
+* [Angular.js]
+* [Knockout.js]
+* [Next.js]
+
 </article>
 
 <article id="javascript-testing">
