@@ -22,6 +22,12 @@
 
 ### Code Editors
 
+* [Atom](https://atom.io/)
+* [Android Studio](https://developer.android.com/studio/)
+* [CodeRunner](https://coderunnerapp.com/)
+* [IntelliJ](https://www.jetbrains.com/idea/)
+* [VS Code](https://code.visualstudio.com/)
+
 </article>
 
 <article id="icons">
@@ -42,19 +48,19 @@
 
 </article>
 
-<article id="libraries">
+<article id="javascript-libraries">
 
 #### Libraries
 
 </article>
 
-<article id="testing">
+<article id="javascript-testing">
 
 #### Testing
 
 </article>
 
-<article id="tutorials">
+<article id="javascript-tutorials">
 
 #### Tutorials
 
