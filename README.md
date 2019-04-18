@@ -1,5 +1,9 @@
 # Fantastic Coding Tools
 
+<p align="center">
+      <img src="Fantastic-coding-tools-cover.png" alt="Fantastic-Coding-Tools"/>
+</p>
+
 <div class="nav">
 
 ## Table of Contents
@@ -13,6 +17,7 @@
 * [JavaScript Tutorials](#javascript-tutorials)
 * [Mockup Tools](#mockup-tools)
 * [Reference](#reference)
+* [UI Frameworks](#ui-frameworks)
 
 </div>
 
@@ -22,10 +27,10 @@
 
 ### Code Editors
 
-* [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration
-* [Android Studio](https://developer.android.com/studio/) - Google's official IDE for Android development
-* [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities
-* [IntelliJ](https://www.jetbrains.com/idea/)
+* [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration.
+* [Android Studio](https://developer.android.com/studio/) - Google's official IDE for Android development.
+* [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities.
+* [IntelliJ](https://www.jetbrains.com/idea/) - an enterprise-level editor ideally used for writing code in Kotlin or Java.
 * [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations. 
 
 </article>
@@ -33,6 +38,12 @@
 <article id="icons">
 
 ### Icons
+
+* [Devicons](https://vorillaz.github.io/devicons/#/main) - a collection of development-related icons, such as icons for programming languages
+* [Font Awesome](https://fontawesome.com/) - the web's largest collection of icons
+* [Material UI Icons](https://material-ui.com/style/icons/) - a large assortment of icons based on material design
+* [Octicons](https://octicons.github.com/) - a GitHub-themed icon collection
+
 
 </article>
 
@@ -75,6 +86,12 @@
 <article id="reference">
 
 ### Reference
+
+</article>
+
+<article id="reference">
+
+### UI Frameworks
 
 </article>
 
