@@ -26,7 +26,7 @@
 * [Android Studio](https://developer.android.com/studio/)
 * [CodeRunner](https://coderunnerapp.com/)
 * [IntelliJ](https://www.jetbrains.com/idea/)
-* [VS Code](https://code.visualstudio.com/)
+* [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations. 
 
 </article>
 
