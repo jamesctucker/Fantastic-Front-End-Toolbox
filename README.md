@@ -14,7 +14,7 @@
 * [Illustrations](#illustrations)
 * [JavaScript](#javascript)
 * [JavaScript Boilerplate](#javascript-boilerplate)
-* [JavaScript Frameworks](#javascript-frameworks)
+* [JavaScript Frameworks](#frameworks-js)
 * [JavaScript Libraries](#javascript-libraries)
 * [JavaScript Testing](#javascript-testing)
 * [JavaScript Tutorials](#javascript-tutorials)
@@ -84,7 +84,7 @@
 
 </article>
 
-<article id="javascript-frameworks">
+<article id="frameworks-js">
 
 #### Frameworks
 
