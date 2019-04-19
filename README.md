@@ -18,9 +18,9 @@
 * [JavaScript Libraries](#javascript-libraries)
 * [JavaScript Testing](#javascript-testing)
 * [JavaScript Tutorials](#javascript-tutorials)
+* [JavaScript UI-Frameworks](#javascript-ui-frameworks)
 * [Mockup Tools](#mockup-tools)
 * [Reference](#reference)
-* [UI Frameworks](#ui-frameworks)
 
 </div>
 
@@ -41,6 +41,10 @@
 <article id="deployment-hosting">
 
 ### Deployment/Hosting
+
+* [Heroku](https://www.heroku.com/)
+* [Netlify](https://www.netlify.com/)
+* [Now](https://zeit.co/now)
 
 </article>
 
@@ -96,9 +100,15 @@
 #### Libraries
 
 * [Angular](https://angular.io/)
+* [Backbone](https://backbonejs.org/)
+* [Gulp](https://gulpjs.com/)
+* [Immutable](https://github.com/immutable-js/immutable-js)
 * [Knockout.js](https://knockoutjs.com/)
+* [Moment](https://momentjs.com/)
 * [React.js](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
 * [Vue.js](https://vuejs.org/)
+* [Webpack](https://webpack.js.org/)
 
 </article>
 
@@ -106,14 +116,27 @@
 
 #### Testing
 
-* [Jest]
-* [Mocha]
+* [Jest](https://jestjs.io/)
+* [Mocha](https://mochajs.org/)
 
 </article>
 
 <article id="javascript-tutorials">
 
 #### Tutorials
+
+</article>
+
+<article id="javascript-ui-frameworks">
+
+#### JavaScript UI-Frameworks
+
+* [Ant Design](https://ant.design/)
+* [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
+* [Bulma](https://bulma.io/)
+* [Grommet](https://v2.grommet.io/)
+* [Material UI](http://material-ui.com/)
+* [Semantic UI](https://semantic-ui.com/)
 
 </article>
 
@@ -129,11 +152,7 @@
 
 </article>
 
-<article id="reference">
 
-### UI Frameworks
-
-</article>
 
 
 
