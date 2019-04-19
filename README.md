@@ -76,7 +76,7 @@
 
 <article id="javascript-boilerplate">
 
-### Boilerplate
+#### Boilerplate
 
 * [Create-React-App](https://github.com/facebook/create-react-app)
 * [React Slingshot](https://github.com/coryhouse/react-slingshot)
@@ -86,7 +86,7 @@
 
 <article id="javascript-frameworks">
 
-### Frameworks
+#### Frameworks
 
 * [Express](http://expressjs.com/)
 * [Gatsby](http://gatsbyjs.org/)
@@ -129,7 +129,7 @@
 
 <article id="javascript-ui-frameworks">
 
-#### JavaScript UI-Frameworks
+#### UI-Frameworks
 
 * [Ant Design](https://ant.design/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
