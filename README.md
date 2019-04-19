@@ -13,12 +13,12 @@
 * [Icons](#icons)
 * [Illustrations](#illustrations)
 * [JavaScript](#javascript)
-* [JavaScript Boilerplate](#javascript-boilerplate)
-* [JavaScript Frameworks](#frameworks-js)
-* [JavaScript Libraries](#javascript-libraries)
-* [JavaScript Testing](#javascript-testing)
-* [JavaScript Tutorials](#javascript-tutorials)
-* [JavaScript UI-Frameworks](#javascript-ui-frameworks)
+* [JavaScript Boilerplate](#jb)
+* [JavaScript Frameworks](#jf)
+* [JavaScript Libraries](#jl)
+* [JavaScript Testing](#jt)
+* [JavaScript Tutorials](#jts)
+* [JavaScript UI-Frameworks](#ju)
 * [Mockup Tools](#mockup-tools)
 * [Reference](#reference)
 
@@ -74,7 +74,7 @@
 
 </article>
 
-<article id="javascript-boilerplate">
+<article id="jb">
 
 #### Boilerplate
 
@@ -84,7 +84,7 @@
 
 </article>
 
-<article id="frameworks-js">
+<article id="jf">
 
 #### Frameworks
 
@@ -95,7 +95,7 @@
 
 </article>
 
-<article id="javascript-libraries">
+<article id="jl">
 
 #### Libraries
 
@@ -112,7 +112,7 @@
 
 </article>
 
-<article id="javascript-testing">
+<article id="jt">
 
 #### Testing
 
@@ -121,13 +121,13 @@
 
 </article>
 
-<article id="javascript-tutorials">
+<article id="jts">
 
 #### Tutorials
 
 </article>
 
-<article id="javascript-ui-frameworks">
+<article id="ju">
 
 #### UI-Frameworks
 
