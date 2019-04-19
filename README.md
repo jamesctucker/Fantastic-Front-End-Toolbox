@@ -9,6 +9,7 @@
 ## Table of Contents
 
 * [Code Editors](#code-editors)
+* [Deployment/Hosting](#deployment-hosting)
 * [Icons](#icons)
 * [Illustrations](#illustrations)
 * [JavaScript](#javascript)
@@ -34,6 +35,12 @@
 * [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities.
 * [IntelliJ](https://www.jetbrains.com/idea/) - an enterprise-level editor ideally used for writing code in Kotlin or Java.
 * [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations. 
+
+</article>
+
+<article id="deployment-hosting">
+
+### Deployment/Hosting
 
 </article>
 
@@ -77,10 +84,10 @@
 
 ### Frameworks
 
-* [Express]
-* [Gatsby]
-* [Nest]
-* [Next]
+* [Express](http://expressjs.com/)
+* [Gatsby](http://gatsbyjs.org/)
+* [Nest](https://nestjs.com/)
+* [Next](https://nextjs.org/)
 
 </article>
 
@@ -88,16 +95,19 @@
 
 #### Libraries
 
-* [Angular.js]
-* [Knockout.js]
-* [React.js]
-* [Vue.js]
+* [Angular](https://angular.io/)
+* [Knockout.js](https://knockoutjs.com/)
+* [React.js](https://reactjs.org/)
+* [Vue.js](https://vuejs.org/)
 
 </article>
 
 <article id="javascript-testing">
 
 #### Testing
+
+* [Jest]
+* [Mocha]
 
 </article>
 
