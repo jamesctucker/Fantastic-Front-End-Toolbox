@@ -97,7 +97,7 @@
 
 <article id="javascript-libraries">
 
-### Libraries
+#### Libraries
 
 * [Angular](https://angular.io/)
 * [Backbone](https://backbonejs.org/)
