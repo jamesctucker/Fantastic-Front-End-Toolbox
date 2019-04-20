@@ -13,12 +13,12 @@
 * [Icons](#icons)
 * [Illustrations](#illustrations)
 * [JavaScript](#javascript)
-* [JavaScript Boilerplate](#jb)
-* [JavaScript Frameworks](#jf)
-* [JavaScript Libraries](#jl)
-* [JavaScript Testing](#jt)
-* [JavaScript Tutorials](#jts)
-* [JavaScript UI-Frameworks](#ju)
+* [JavaScript Boilerplate](#javascript-boilerplate)
+* [JavaScript Frameworks](#javascript-frameworks)
+* [JavaScript Libraries](#javascript-libraries)
+* [JavaScript Testing](#javascript-testing)
+* [JavaScript Tutorials](#javascript-tutorials)
+* [JavaScript UI-Frameworks](#javascript-ui-frameworks)
 * [Mockup Tools](#mockup-tools)
 * [Reference](#reference)
 
@@ -74,9 +74,9 @@
 
 </article>
 
-<article id="jb">
+<article id="javascript-boilerplate">
 
-#### Boilerplate
+#### JavaScript Boilerplate
 
 * [Create-React-App](https://github.com/facebook/create-react-app)
 * [React Slingshot](https://github.com/coryhouse/react-slingshot)
@@ -86,7 +86,7 @@
 
 <article id="jf">
 
-#### Frameworks
+#### JavaScript Frameworks
 
 * [Express](http://expressjs.com/)
 * [Gatsby](http://gatsbyjs.org/)
@@ -97,7 +97,7 @@
 
 <article id="jl">
 
-#### Libraries
+#### JavaScript Libraries
 
 * [Angular](https://angular.io/)
 * [Backbone](https://backbonejs.org/)
@@ -114,7 +114,7 @@
 
 <article id="jt">
 
-#### Testing
+#### JavaScript Testing
 
 * [Jest](https://jestjs.io/)
 * [Mocha](https://mochajs.org/)
@@ -123,13 +123,13 @@
 
 <article id="jts">
 
-#### Tutorials
+#### JavaScript Tutorials
 
 </article>
 
 <article id="ju">
 
-#### UI-Frameworks
+#### JavaScript UI-Frameworks
 
 * [Ant Design](https://ant.design/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
