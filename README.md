@@ -70,7 +70,7 @@
 
 <article id="javascript">
 
-### _JavaScript_
+### __JavaScript__
 
 </article>
 
