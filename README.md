@@ -28,7 +28,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
   - [JavaScript Testing](#javascript-testing)
   - [JavaScript Tutorials](#javascript-tutorials)
   - [JavaScript UI-Frameworks](#javascript-ui-frameworks)
-- [Mockup Tools](#mockup-tools)
+- [Mockup/Wireframe Tools](#mockup-tools)
 - [Reference](#reference)
 
 </div>
@@ -72,6 +72,8 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Illustrations
 
+"Wow! That stock photo really drew me into the story of your website/app/business," said no one ever. If you want to capture your audience's attention(and apparently, [you have ten seconds to do so](http://overit.com/blog/illustration-benefits)), you'll need striking, authentic imagery and illustrations. 
+
 * [IRA Design](https://iradesign.io/) - build your own illustrations with free pre-existing gradient images.
 * [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
 
@@ -87,7 +89,9 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ### JavaScript Boilerplate
 
-* [Create-React-App](https://github.com/facebook/create-react-app)
+Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-numbing process of gathering all the necessary dependencies needed to create a new app. So here are some awesome code templates that'll enable you to start your development in no time at all.
+
+* [Create-React-App](https://github.com/facebook/create-react-app) - if you've ever dabbled with React, you already know what this is
 * [React Slingshot](https://github.com/coryhouse/react-slingshot)
 * [Simple React App](https://github.com/Kornil/simple-react-app)
 
@@ -134,6 +138,11 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ### JavaScript Tutorials
 
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+* [JavaScript30](https://javascript30.com/)
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
 </article>
 
 <article id="ju">
@@ -151,7 +160,11 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="mockup-tools">
 
-## Mockup Tools
+## Mockup/Wireframe Tools
+
+* [Figma](https://www.figma.com/)
+* [Framer](https://www.framer.com/)
+* [Moqups](https://moqups.com/)
 
 </article>
 
