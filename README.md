@@ -8,7 +8,7 @@
       
 ## Contribute
 
-Please follow our [Contribution Guidelines](#https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md).
+Please follow our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md).
 
 ## Table of Contents
 
