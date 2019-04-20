@@ -11,18 +11,10 @@ If you would like to contribute, just send a Pull Request. Please:
 * Check spelling and grammar.
 
 ## One tool can go only to one category
-Every category presents some design work or task. Many design tools allow us to solve multiple tasks. But in this list, one tool with full description & link is always submitted only to one category (section). Why do so? Because we want to avoid many duplications and misunderstanding around tool functionality.
-
-However, if the tool can be used for another task, just mention tool name in the additional sentence at the end of another category, like here: `You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the UI Design Tools section.`
-
+Every category presents some design work or task. Many tools allow us to solve multiple tasks. But in this list, one tool with full description & link is submitted only to one category (section). Why do so? Because we want to avoid any duplications and misunderstandings around tool functionality.
 
 ## Link Format
 * Please, use the following format for the links in Pull Requests: ``[Tool](link) — description``. The description should start from the lower-case letter unless it's starting with the tool name.
-
-* Please, add the appropriate labels:
-  * ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg) for free tools. **Free means** entirely free tools, not freemium or those which have free trial, free limited functionality. For adding label just copy & paste the following snippet: ``![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)``
-  * ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) for open-source tools. Use the following snippet: ``![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg)``
-  * ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg) for Mac only tools. Use the following snippet: ``![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)``
   
 ## Review Workflow  
-We will do our best to review your submission as soon as we can. Please, consider that we have a full-time job in our startup :) Your contribution might be rejected if the tool didn't pass our curation. Of course, this is very subjective and if you think we are being unfair, do let us know.
+We will do our best to review your submission as soon as we can. Your contribution might be rejected if the tool didn't pass our curation. Of course, this is very subjective and if you think we are being unfair, do let us know.
