@@ -5,6 +5,10 @@
 </p>
 
 <div class="nav">
+      
+## Contribute
+
+Please follow our [Contribution Guidelines](#https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md).
 
 ## Table of Contents
 
