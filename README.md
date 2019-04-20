@@ -12,19 +12,19 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Table of Contents
 
-* [Code Editors](#code-editors)
-* [Deployment/Hosting](#deployment-hosting)
-* [Icons](#icons)
-* [Illustrations](#illustrations)
-* [JavaScript](#javascript)
-* [JavaScript Boilerplate](#javascript-boilerplate)
-* [JavaScript Frameworks](#javascript-frameworks)
-* [JavaScript Libraries](#javascript-libraries)
-* [JavaScript Testing](#javascript-testing)
-* [JavaScript Tutorials](#javascript-tutorials)
-* [JavaScript UI-Frameworks](#javascript-ui-frameworks)
-* [Mockup Tools](#mockup-tools)
-* [Reference](#reference)
+- [Code Editors](#code-editors)
+- [Deployment/Hosting](#deployment-hosting)
+- [Icons](#icons)
+- [Illustrations](#illustrations)
+- [JavaScript](#javascript)
+      - [JavaScript Boilerplate](#javascript-boilerplate)
+      - [JavaScript Frameworks](#javascript-frameworks)
+      - [JavaScript Libraries](#javascript-libraries)
+      - [JavaScript Testing](#javascript-testing)
+      - [JavaScript Tutorials](#javascript-tutorials)
+      - [JavaScript UI-Frameworks](#javascript-ui-frameworks)
+- [Mockup Tools](#mockup-tools)
+- [Reference](#reference)
 
 </div>
 
@@ -32,7 +32,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="code-editors">
 
-### Code Editors
+## Code Editors
 
 * [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration.
 * [Android Studio](https://developer.android.com/studio/) - Google's official IDE for Android development.
@@ -44,7 +44,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="deployment-hosting">
 
-### Deployment/Hosting
+## Deployment/Hosting
 
 * [Heroku](https://www.heroku.com/)
 * [Netlify](https://www.netlify.com/)
@@ -54,7 +54,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="icons">
 
-### Icons
+## Icons
 
 * [Devicons](https://vorillaz.github.io/devicons/#/main) - a collection of development-related icons, such as icons for programming languages
 * [Font Awesome](https://fontawesome.com/) - the web's largest collection of icons
@@ -65,7 +65,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="illustrations">
 
-### Illustrations
+## Illustrations
 
 * [IRA Design](https://iradesign.io/) - build your own illustrations with free pre-existing gradient images.
 * [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
@@ -74,13 +74,13 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="javascript">
 
-### __JavaScript__
+## JavaScrip
 
 </article>
 
 <article id="javascript-boilerplate">
 
-#### JavaScript Boilerplate
+### JavaScript Boilerplate
 
 * [Create-React-App](https://github.com/facebook/create-react-app)
 * [React Slingshot](https://github.com/coryhouse/react-slingshot)
@@ -90,7 +90,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="jf">
 
-#### JavaScript Frameworks
+### JavaScript Frameworks
 
 * [Express](http://expressjs.com/)
 * [Gatsby](http://gatsbyjs.org/)
@@ -101,7 +101,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="jl">
 
-#### JavaScript Libraries
+### JavaScript Libraries
 
 * [Angular](https://angular.io/)
 * [Backbone](https://backbonejs.org/)
@@ -118,7 +118,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="jt">
 
-#### JavaScript Testing
+### JavaScript Testing
 
 * [Jest](https://jestjs.io/)
 * [Mocha](https://mochajs.org/)
@@ -127,13 +127,13 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="jts">
 
-#### JavaScript Tutorials
+### JavaScript Tutorials
 
 </article>
 
 <article id="ju">
 
-#### JavaScript UI-Frameworks
+### JavaScript UI-Frameworks
 
 * [Ant Design](https://ant.design/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
@@ -146,13 +146,13 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="mockup-tools">
 
-### Mockup Tools
+## Mockup Tools
 
 </article>
 
 <article id="reference">
 
-### Reference
+## Reference
 
 </article>
 
