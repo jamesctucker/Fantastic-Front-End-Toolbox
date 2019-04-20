@@ -28,7 +28,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
   - [JavaScript Testing](#javascript-testing)
   - [JavaScript Tutorials](#javascript-tutorials)
   - [JavaScript UI-Frameworks](#javascript-ui-frameworks)
-- [Mockup/Wireframe Tools](#mockup-tools)
+- [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
 
 </div>
@@ -160,7 +160,7 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 <article id="mockup-tools">
 
-## Mockup/Wireframe Tools
+## Mockup Tools
 
 * [Figma](https://www.figma.com/)
 * [Framer](https://www.framer.com/)
