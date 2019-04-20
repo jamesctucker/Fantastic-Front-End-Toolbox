@@ -10,6 +10,11 @@
 
 Have a tool or resource that you love and think would be helpful to others? Just send a Pull Request with the details! Please follow the simple [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). Can't wait to see your suggestions!
 
+## Roadmap
+
+* Add categories for additional programming languages (Kotlin, Python, Golang, etc.)
+* TBD
+
 ## Table of Contents
 
 - [Code Editors](#code-editors)
