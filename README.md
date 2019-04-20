@@ -1,4 +1,4 @@
-# Fantastic Coding Tools
+# Fantastic Coding Toolbox
 
 <p align="center">
       <img src="Fantastic-coding-tools-cover.png" alt="Fantastic-Coding-Tools"/>
