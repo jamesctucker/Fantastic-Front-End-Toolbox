@@ -74,7 +74,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="javascript">
 
-## JavaScrip
+## JavaScript
 
 </article>
 
