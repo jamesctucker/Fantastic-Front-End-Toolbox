@@ -151,6 +151,7 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 * [JavaScript Weekly](https://javascriptweekly.com/) - a free, once–weekly email roundup of JavaScript news and articles.
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
 </article>
 
 <article id="ju">
