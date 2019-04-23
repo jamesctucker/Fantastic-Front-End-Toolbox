@@ -138,11 +138,20 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 ### JavaScript Tutorials
 
+* [Books that Junior Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586)
+  * [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, & John Vlissides (PDF)](https://sophia.javeriana.edu.co/~cbustaca/docencia/DSBP-2018-01/recursos/Erich%20Gamma,%20Richard%20Helm,%20Ralph%20Johnson,%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20%281994%29.pdf)
+  * [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans (PDF)](https://github.com/ZilvinasKucinskas/FRP-EventSourcing/blob/master/sources/xx735.Eric.Evans.Domaindriven.Design.Tackling.Complexity.in.the.Heart.of.Software.pdf)
+  * [Refactoring by Martin Fowler (PDF)](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
+* [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Front End Handbook 2019 - Frontend Masters](https://frontendmasters.com/books/front-end-handbook/2019/) - a guide that everyone can use to learn about the practice of front-end development.
 * [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 * [JavaScript30](https://javascript30.com/)
+* [JavaScript Cardio Sessions](https://www.youtube.com/playlist?list=PLillGF-Rfqbb4ZOnsNCIB-DnLuUrQjS_G)
+* [JavaScript Weekly](https://javascriptweekly.com/) - a free, once–weekly email roundup of JavaScript news and articles.
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
 </article>
 
 <article id="ju">
@@ -173,10 +182,3 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 ## Reference
 
 </article>
-
-
-
-
-
-
-
