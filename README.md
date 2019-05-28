@@ -170,6 +170,12 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
       
 #### React JS
 
+* [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A) - a 30,000 foot view of React from Brad Traversy; an hour-long YouTube tutorial.
+
+* [Mastering React by Mosh](https://codewithmosh.com/p/mastering-react) - a 12-hour-long series of videos where you learn React fundamentals by building a video rental app.
+
+* [Official React Tutorial](https://reactjs.org/tutorial/tutorial.html) - you will learn React by building an interactive tic-tac-toe game.
+
 </article
 
 <article id="vt">
@@ -181,6 +187,10 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 * [Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) - a Udemy course considered to be one of the most comprehensive Vue.js tutorials available; each concept is broken down into a bite-sized 2-3 minute video and hands-on learning.
 
 * [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U) - an hour-long YouTube tutorial by Brad Traversy; you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc.
+
+* [Laracasts - Learn Vue 2: Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step?ref=hackr.io) - the most upvoted Vue tutorial on hackr.io.
+
+* [Build an App with Vue.js] - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
 
 </article
 
