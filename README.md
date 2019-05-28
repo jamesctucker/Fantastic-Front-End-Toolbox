@@ -143,8 +143,6 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 <article id="vt">
       
-<a href="#vanilla-jss">Heading IDs</a>
-
 #### Vanilla JS
 
 * [Books that Junior Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586)
