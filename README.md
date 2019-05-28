@@ -178,9 +178,9 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries. (taken from the [official Vue.js site](https://vuejs.org/v2/guide/))
 
-* [Vue JS 2 - The Complete Guide] - a Udemy course considered to be one of the most comprehensive Vue.js tutorials available; each concept is broken down into a bite-sized 2-3 minute video and hands-on learning.
+* [Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) - a Udemy course considered to be one of the most comprehensive Vue.js tutorials available; each concept is broken down into a bite-sized 2-3 minute video and hands-on learning.
 
-* [Vue JS Crash Course] - an hour-long YouTube tutorial by Brad Traversy; you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc.
+* [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U) - an hour-long YouTube tutorial by Brad Traversy; you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc.
 
 </article
 
