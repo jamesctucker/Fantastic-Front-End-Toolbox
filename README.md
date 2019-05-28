@@ -190,7 +190,7 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 * [Laracasts - Learn Vue 2: Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step?ref=hackr.io) - the most upvoted Vue tutorial on hackr.io.
 
-* [Build an App with Vue.js] - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
+* [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs?ref=hackr.io) - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
 
 </article
 
