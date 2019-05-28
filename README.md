@@ -138,6 +138,12 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 ### JavaScript Tutorials
 
+<article id="vanilla-javascript">
+
+## Vanilla JavaScript
+
+</article>
+
 * [Books that Junior Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586)
   * [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, & John Vlissides (PDF)](https://sophia.javeriana.edu.co/~cbustaca/docencia/DSBP-2018-01/recursos/Erich%20Gamma,%20Richard%20Helm,%20Ralph%20Johnson,%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20%281994%29.pdf)
   * [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans (PDF)](https://github.com/ZilvinasKucinskas/FRP-EventSourcing/blob/master/sources/xx735.Eric.Evans.Domaindriven.Design.Tackling.Complexity.in.the.Heart.of.Software.pdf)
