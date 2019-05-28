@@ -27,7 +27,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
   - [JavaScript Libraries](#javascript-libraries)
   - [JavaScript Testing](#javascript-testing)
   - [JavaScript Tutorials](#javascript-tutorials)
-   - [Vanilla](#vanilla-tutorials)
+        - [Vanilla](#vanilla-tutorials)
   - [JavaScript UI-Frameworks](#javascript-ui-frameworks)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
@@ -139,8 +139,6 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 ### JavaScript Tutorials
 
-</article>
-
 <article id="vt">
 
 #### Vanilla
@@ -159,6 +157,9 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
+
+</article>
+
 </article>
 
 <article id="ju">
