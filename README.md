@@ -28,6 +28,10 @@ Have a tool or resource that you love and think would be helpful to others? Just
   - [JavaScript Testing](#javascript-testing)
   - [JavaScript Tutorials](#javascript-tutorials)
         - [Vanilla JS](#vanilla-js)
+        - [React JS](#react-js)
+        - [Vue JS](#vue-js)
+        - [Angular 2+](#angular-2)
+
   - [JavaScript UI-Frameworks](#javascript-ui-frameworks)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
@@ -161,6 +165,25 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
 
 </article>
+
+<article id="rt">
+      
+#### React JS
+
+</article
+
+<article id="vt">
+      
+#### Vue JS
+
+</article
+
+<article id="at">
+      
+#### Angular 2+
+
+</article
+
 
 <article id="ju">
 
