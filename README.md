@@ -27,7 +27,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
   - [JavaScript Libraries](#javascript-libraries)
   - [JavaScript Testing](#javascript-testing)
   - [JavaScript Tutorials](#javascript-tutorials)
-        - [Vanilla JS](#vt)
+        - [Vanilla JS](#vanilla-js)
   - [JavaScript UI-Frameworks](#javascript-ui-frameworks)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
@@ -142,6 +142,8 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 </article>
 
 <article id="vt">
+      
+<a href="#vanilla-jss">Heading IDs</a>
 
 #### Vanilla JS
 
