@@ -27,7 +27,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
   - [JavaScript Libraries](#javascript-libraries)
   - [JavaScript Testing](#javascript-testing)
   - [JavaScript Tutorials](#javascript-tutorials)
-        - [Vanilla JS](#vanilla-tutorials)
+        - [Vanilla JS](#vt)
   - [JavaScript UI-Frameworks](#javascript-ui-frameworks)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
