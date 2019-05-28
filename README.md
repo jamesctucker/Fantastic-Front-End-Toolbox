@@ -143,7 +143,7 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 <article id="v-t">
 
-#### Vanilla JavaScript
+#### Vanilla
 
 </article>
 
