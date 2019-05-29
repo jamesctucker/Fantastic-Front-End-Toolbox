@@ -200,7 +200,6 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 </article
 
-
 <article id="ju">
 
 ### JavaScript UI-Frameworks
