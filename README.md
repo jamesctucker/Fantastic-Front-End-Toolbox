@@ -81,6 +81,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 * [IRA Design](https://iradesign.io/) - build your own illustrations with free pre-existing gradient images.
 * [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
+* [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
 
 </article>
 
