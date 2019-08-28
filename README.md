@@ -12,7 +12,6 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Roadmap
 
-* Add categories for additional programming languages (Kotlin, Python, Golang, etc.)
 * TBD
 
 ## Table of Contents
