@@ -89,7 +89,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## General Web Development Tutorials
 
-* [The Odin Project] - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS.
+* [The Odin Project](https://www.theodinproject.com) - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS.
 
 </article>
 
