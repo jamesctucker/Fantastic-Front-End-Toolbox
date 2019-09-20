@@ -17,6 +17,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Table of Contents
 
+- [Cheatsheets](#cheat-sheets)
 - [Code Editors](#code-editors)
 - [Deployment & Hosting](#deployment-hosting)
 - [Icons](#icons)
@@ -39,7 +40,16 @@ Have a tool or resource that you love and think would be helpful to others? Just
 </div>
 
 <main>
+      
+<article id="cheat-sheets">
 
+## Cheat Sheets
+
+- [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
+
+</article>
+     
+     
 <article id="code-editors">
 
 ## Code Editors
@@ -108,8 +118,6 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 * [Create-React-App](https://github.com/facebook/create-react-app) - if you've ever dabbled with React, you already know what this is
 * [React Slingshot](https://github.com/coryhouse/react-slingshot)
 * [Simple React App](https://github.com/Kornil/simple-react-app)
-
-</article>
 
 </article>
 
@@ -193,13 +201,13 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 * [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs?ref=hackr.io) - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
 
-</article
+</article>
 
 <article id="at">
       
 #### Angular 2+
 
-</article
+</article>
 
 <article id="ot">
       
@@ -207,7 +215,7 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 * [Frontend Masters](https://frontendmasters.com) - a subscription-based platform for learning cutting-edge front-end technologies. Tutorials taught by world-class experts.
 
-</article
+</article>
 
 <article id="ui-css">
 
