@@ -85,7 +85,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 </article>
 
-<article id="gwdt>
+<article id="gwdt">
 
 ## General Web Development Tutorials
 
