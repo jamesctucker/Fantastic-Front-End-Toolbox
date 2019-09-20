@@ -21,6 +21,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [Deployment & Hosting](#deployment-hosting)
 - [Icons](#icons)
 - [Illustrations](#illustrations)
+- [General Web Development Tutorials](#general-web-dev-tutorials)
 - [JavaScript](#javascript)
   - [JavaScript Boilerplate](#javascript-boilerplate)
   - [JavaScript Libraries](#javascript-libraries)
@@ -81,6 +82,14 @@ Have a tool or resource that you love and think would be helpful to others? Just
 * [IRA Design](https://iradesign.io/) - build your own illustrations with free pre-existing gradient images.
 * [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
 * [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
+
+</article>
+
+<article id="general-web-dev-tutorials>
+
+## General Web Development Tutorials
+
+* [The Odin Project] - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS.
 
 </article>
 
