@@ -119,10 +119,8 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 ### JavaScript Libraries
 
 * [Angular](https://angular.io/)
-* [Backbone](https://backbonejs.org/)
 * [Gulp](https://gulpjs.com/)
 * [Immutable](https://github.com/immutable-js/immutable-js)
-* [Knockout.js](https://knockoutjs.com/)
 * [Moment](https://momentjs.com/)
 * [React.js](https://reactjs.org/)
 * [Redux](https://redux.js.org/)
