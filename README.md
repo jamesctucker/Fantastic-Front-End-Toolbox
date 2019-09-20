@@ -226,4 +226,6 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 ## Reference
 
+* [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
+
 </article>
