@@ -8,11 +8,12 @@
       
 ## Contribute
 
-Have a tool or resource that you love and think would be helpful to others? Just send a Pull Request with the details! Please follow the simple [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). Can't wait to see your suggestions!
+Have a tool or resource that you love and think would be helpful to others? Just send a Pull Request with the details! Please follow the simple [Contribution Guidelines](https://github.com/jamesctucker/Fantastic-Front-End-Toolbox/blob/master/Contribution-Guidelines.md). Can't wait to see your suggestions!
 
 ## Roadmap
 
-* TBD
+* Add Kotlin for web development resources
+* Suggestions?
 
 ## Table of Contents
 
@@ -214,10 +215,11 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 * [Ant Design](https://ant.design/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
-* [Bulma](https://bulma.io/)
+* [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox.
 * [Grommet](https://v2.grommet.io/)
-* [Material UI](http://material-ui.com/)
-* [Semantic UI](https://semantic-ui.com/)
+* [Material UI](http://material-ui.com/) - React components for faster and easier web development.
+* [Semantic UI](https://semantic-ui.com/) 
+* [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
 </article>
 
