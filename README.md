@@ -126,6 +126,8 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 * [Redux](https://redux.js.org/)
 * [Vue.js](https://vuejs.org/)
 * [Webpack](https://webpack.js.org/)
+* [Frappe Charts](https://frappe.io/charts)
+* [Frappe Datatable](http://frappe.io/datatable)
 
 </article>
 
