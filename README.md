@@ -21,7 +21,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [Deployment & Hosting](#deployment-hosting)
 - [Icons](#icons)
 - [Illustrations](#illustrations)
-- [General Web Development Tutorials](#general-web-dev-tutorials)
+- [General Web Development Tutorials](#gwdt)
 - [JavaScript](#javascript)
   - [JavaScript Boilerplate](#javascript-boilerplate)
   - [JavaScript Libraries](#javascript-libraries)
@@ -85,7 +85,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 </article>
 
-<article id="general-web-dev-tutorials>
+<article id="gwdt>
 
 ## General Web Development Tutorials
 
