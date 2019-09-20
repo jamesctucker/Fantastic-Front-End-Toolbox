@@ -31,7 +31,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
         - [Vue JS](#vue-js)
         - [Angular 2+](#angular-2)
         - [Other](#other)
-  - [JavaScript UI-Frameworks](#javascript-ui-frameworks)
+- [UI/CSS Frameworks](#ui-css-frameworks)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
 
@@ -210,7 +210,7 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 <article id="ju">
 
-### JavaScript UI-Frameworks
+### UI/CSS Frameworks
 
 * [Ant Design](https://ant.design/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
