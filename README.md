@@ -45,10 +45,10 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Cheat Sheets
 
-- [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
+* [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
+* [Vue Unit-Testing](https://github.com/dekadentno/vue-unit-testing-cheat-sheet) - handy reference for all things Vue testing, including Jest and Vue-Test-Utils
 
 </article>
-     
      
 <article id="code-editors">
 
