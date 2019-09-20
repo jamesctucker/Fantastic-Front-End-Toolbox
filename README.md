@@ -17,7 +17,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 ## Table of Contents
 
 - [Code Editors](#code-editors)
-- [Deployment/Hosting](#deployment-hosting)
+- [Deployment & Hosting](#deployment-hosting)
 - [Icons](#icons)
 - [Illustrations](#illustrations)
 - [JavaScript](#javascript)
@@ -31,7 +31,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
         - [Vue JS](#vue-js)
         - [Angular 2+](#angular-2)
         - [Other](#other)
-- [UI/CSS Frameworks](#ui-css-frameworks)
+- [UI & CSS Frameworks](#ui-css)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
 
@@ -53,7 +53,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="deployment-hosting">
 
-## Deployment/Hosting
+## Deployment & Hosting
 
 * [Heroku](https://www.heroku.com/)
 * [Netlify](https://www.netlify.com/)
@@ -208,9 +208,9 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 </article
 
-<article id="ui-css-frameworks">
+<article id="ui-css">
 
-## UI/CSS Frameworks
+## UI & CSS Frameworks
 
 * [Ant Design](https://ant.design/)
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
