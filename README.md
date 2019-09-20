@@ -23,7 +23,6 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [Illustrations](#illustrations)
 - [JavaScript](#javascript)
   - [JavaScript Boilerplate](#javascript-boilerplate)
-  - [JavaScript Frameworks](#javascript-frameworks)
   - [JavaScript Libraries](#javascript-libraries)
   - [JavaScript Testing](#javascript-testing)
   - [JavaScript Tutorials](#javascript-tutorials)
@@ -103,15 +102,6 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 </article>
 
-<article id="jf">
-
-### JavaScript Frameworks
-
-* [Express](http://expressjs.com/)
-* [Gatsby](http://gatsbyjs.org/)
-* [Nest](https://nestjs.com/)
-* [Next](https://nextjs.org/)
-
 </article>
 
 <article id="jl">
@@ -119,6 +109,7 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 ### JavaScript Libraries
 
 * [Angular](https://angular.io/)
+* [Gatsby](http://gatsbyjs.org/)
 * [Gulp](https://gulpjs.com/)
 * [Immutable](https://github.com/immutable-js/immutable-js)
 * [Moment](https://momentjs.com/)
