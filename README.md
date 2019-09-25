@@ -163,6 +163,7 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
   * [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans (PDF)](https://github.com/ZilvinasKucinskas/FRP-EventSourcing/blob/master/sources/xx735.Eric.Evans.Domaindriven.Design.Tackling.Complexity.in.the.Heart.of.Software.pdf)
   * [Refactoring by Martin Fowler (PDF)](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
 * [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
+* [Practical Javascript](https://watchandcode.com/p/practical-javascript) - a uniquely pragmatic approach to the online javascript course
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [Front End Handbook 2019 - Frontend Masters](https://frontendmasters.com/books/front-end-handbook/2019/) - a guide that everyone can use to learn about the practice of front-end development.
 * [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
