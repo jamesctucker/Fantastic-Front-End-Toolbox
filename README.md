@@ -20,6 +20,9 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [Cheatsheets](#cheat-sheets)
 - [Code Editors](#code-editors)
 - [CSS](#css)
+  - [CSS Grid](#css-grid)
+  - [Flexbox](#flexbox)
+  - [General Resources](#general-resources)
 - [Deployment & Hosting](#deployment-hosting)
 - [HTML](#html)
 - [Icons](#icons)
@@ -69,6 +72,23 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## CSS
 
+<article id="css-grid">
+
+### CSS Grid
+
+</article>
+
+<article id="flexbox">
+
+### Flexbox
+
+</article>
+
+<article id="general-resources">
+
+### General Resources
+
+</article>
 
 </article>
 
