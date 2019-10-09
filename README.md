@@ -65,6 +65,13 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 </article>
 
+<article id="css">
+
+## CSS
+
+
+</article>
+
 <article id="deployment-hosting">
 
 ## Deployment & Hosting
@@ -72,6 +79,14 @@ Have a tool or resource that you love and think would be helpful to others? Just
 * [Heroku](https://www.heroku.com/)
 * [Netlify](https://www.netlify.com/)
 * [Now](https://zeit.co/now)
+
+</article>
+
+<article id="html">
+
+## HTML
+
+
 
 </article>
 
