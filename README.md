@@ -88,6 +88,8 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ### General Resources
 
+* [CSS Tricks](https://css-tricks.com) - the name should be self-explanatory :). A huge collection of CSS guides, tips, and how-tos. You'll also find some HTML and JavaScript sprinkled in with everything.
+
 </article>
 
 </article>
@@ -271,8 +273,9 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 ## Reference
 
-* [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
 * [Dev.to](https://dev.to) - there are plenty of tech articles, and all for free! Just like Medium, it has tutorials, articles, opinions and more about all kinds of tech stuff.
+* [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
+* [Scotch.io](https://scotch.io) - fun and practical web development tutorials
 
 </article>
 
