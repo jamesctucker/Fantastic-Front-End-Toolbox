@@ -19,7 +19,9 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 - [Cheatsheets](#cheat-sheets)
 - [Code Editors](#code-editors)
+- [CSS](#css)
 - [Deployment & Hosting](#deployment-hosting)
+- [HTML](#html)
 - [Icons](#icons)
 - [Illustrations](#illustrations)
 - [General Development Tutorials/Curriculum](#gwdt)
@@ -33,9 +35,10 @@ Have a tool or resource that you love and think would be helpful to others? Just
     - [Vue JS](#vue-js)
     - [Angular 2+](#angular-2)
     - [Other](#other)
-- [UI & CSS Frameworks](#ui-css)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
+- [UI & CSS Frameworks](#ui-css)
+
 
 </div>
 
@@ -219,20 +222,6 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 </article>
 
-<article id="ui-css">
-
-## UI & CSS Frameworks
-
-* [Ant Design](https://ant.design/)
-* [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
-* [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox.
-* [Grommet](https://v2.grommet.io/)
-* [Material UI](http://material-ui.com/) - React components for faster and easier web development.
-* [Semantic UI](https://semantic-ui.com/) 
-* [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
-
-</article>
-
 <article id="mockup-tools">
 
 ## Mockup Tools
@@ -249,5 +238,19 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 * [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
 * [Dev.to](https://dev.to) - there are plenty of tech articles, and all for free! Just like Medium, it has tutorials, articles, opinions and more about all kinds of tech stuff.
+
+</article>
+
+<article id="ui-css">
+
+## UI & CSS Frameworks
+
+* [Ant Design](https://ant.design/)
+* [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
+* [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox.
+* [Grommet](https://v2.grommet.io/)
+* [Material UI](http://material-ui.com/) - React components for faster and easier web development.
+* [Semantic UI](https://semantic-ui.com/) 
+* [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
 </article>
