@@ -22,7 +22,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [Deployment & Hosting](#deployment-hosting)
 - [Icons](#icons)
 - [Illustrations](#illustrations)
-- [General Web Development Tutorials](#gwdt)
+- [General Development Tutorials/Curriculum](#gwdt)
 - [JavaScript](#javascript)
   - [JavaScript Boilerplate](#javascript-boilerplate)
   - [JavaScript Libraries](#javascript-libraries)
@@ -97,9 +97,10 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <article id="gwdt">
 
-## General Web Development Tutorials
-
-* [The Odin Project](https://www.theodinproject.com) - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS.
+## General Development Tutorials/Curriculums
+ 
+* [freeCodeCamp](https://www.freecodecamp.org/) - a free, open-source platform for learning full-stack development. There are several 300-hour courses on subjects such as front-end development, data structures, and passing code interviews. Each course completion comes with a certificate. 
+* [The Odin Project](https://www.theodinproject.com) - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS. This curriculum requires you to utilize many external resources, so you'll become proficient at setting up your own coding environment and searching for valuable resources online.
 
 </article>
 
