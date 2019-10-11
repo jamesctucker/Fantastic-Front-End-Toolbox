@@ -221,13 +221,15 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
       
 #### React JS
 
+* [Full Stack Open 2019](https://fullstackopen.com/en/) - a free course run by the University of Helsinki with the main focus of building single page applications with ReactJS that use REST APIs built with Node.js.
+
 * [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A) - a 30,000 foot view of React from Brad Traversy; an hour-long YouTube tutorial.
 
 * [Mastering React by Mosh](https://codewithmosh.com/p/mastering-react) - a 12-hour-long series of videos where you learn React fundamentals by building a video rental app.
 
 * [Official React Tutorial](https://reactjs.org/tutorial/tutorial.html) - you will learn React by building an interactive tic-tac-toe game.
 
-</article
+</article>
 
 <article id="vt">
       
