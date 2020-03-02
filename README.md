@@ -37,6 +37,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
     - [React JS](#react-js)
     - [Vue JS](#vue-js)
     - [Angular 2+](#angular-2)
+    - [GraphQL](#graphql)
     - [Other](#other)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
@@ -165,8 +166,6 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 - [Angular](https://angular.io/)
 - [Gatsby](http://gatsbyjs.org/)
-- [Gulp](https://gulpjs.com/)
-- [Immutable](https://github.com/immutable-js/immutable-js)
 - [Moment](https://momentjs.com/)
 - [React.js](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
@@ -266,7 +265,9 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 - [Advanced GraphQL](https://frontendmasters.com/courses/advanced-graphql/) - In this course Scott Moss — returning Frontend Masters instructor and CEO of Tipe — demonstrates the techniques he uses to make his GraphQL API’s production-ready, such as Nested Resolvers, Caching and Testing. Learn everything you need to know about building production-ready GraphQL APIs!
 
-  </article>
+- [Managing Local State with Apollo Client and React Hooks](https://itnext.io/managing-local-state-with-apollo-client-and-react-hooks-9ad357e6d649) - Is it time to kiss Redux goodbye in your GraphQL projects? No one can say for sure, but Apollo Client now provides a way to store your entire state within its cache.
+
+</article>
 
 <article id="ot">
       
