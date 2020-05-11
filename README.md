@@ -19,10 +19,12 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [Learning Roadmap](#LearningRoadmap)
 - [Comprehensive Curriculum](#ComprehensiveCurriculum)
 - [HTML](#HTML)
+  - [HTML Tutorials](#HTMLTutorials)
 - [CSS](#CSS)
-  - [CSS Grid](#css-grid)
-  - [Flexbox](#flexbox)
-  - [General Resources](#general-resources)
+  - [CSS Tutorials](#CSSTutorials)
+  - [CSS Grid](#CSSGrid)
+  - [Flexbox](#Flexbox)
+  - [General Resources](#GeneralResources)
 - [JavaScript](#JavaScript)
   - [JavaScript Boilerplate](#JavaScriptBoilerplate)
   - [JavaScript Frameworks](#JavaScriptFrameworks)
@@ -62,21 +64,26 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## HTML <span id="HTML"></span>
 
+### HTML Tutorials <span id="HTMLTutorials"></span>
+
 <!-- CSS Starts here -->
 
 ## CSS <span id="CSS"></span>
 
-### CSS Grid <span id="css-grid"></span>
+### CSS Tutorials <span id="CSSTutorials"></span>
 
-### Flexbox <span id="flexbox"></span>
+### CSS Grid <span id="CSSGrid"></span>
 
-<span id="general-resources">
+- [CSS Grid Playground](https://mozilladevelopers.github.io/playground/css-grid) - a playground/tutorial by Mozilla for learning CSS Grid
 
-### General Resources
+### Flexbox <span id="Flexbox"></span>
+
+- [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.
+
+### General Resources <span id="GeneralResources"></span>
 
 - [CSS Tricks](https://css-tricks.com) - the name should be self-explanatory :). A huge collection of CSS guides, tips, and how-tos. You'll also find some HTML and JavaScript sprinkled in with everything.
-
-</span>
 
 <!--  JavaScript starts here -->
 
@@ -158,7 +165,6 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 ## Cheat Sheets <span id="CheatSheets"></span>
 
 - [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
-- [Vue Unit-Testing](https://github.com/dekadentno/vue-unit-testing-cheat-sheet) - handy reference for all things Vue testing, including Jest and Vue-Test-Utils
 
 <!-- Code Editors start here -->
 
@@ -199,6 +205,9 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 ## Free Images <span id="FreeImages"></span>
 
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+
 <!-- Design tools start here -->
 
 ## Design Tools <span id="DesignTools"></span>
@@ -218,7 +227,6 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 - [Ant Design](https://ant.design/)
 - [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
 - [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox.
-- [Grommet](https://v2.grommet.io/)
 - [Material UI](http://material-ui.com/) - React components for faster and easier web development.
 - [Semantic UI](https://semantic-ui.com/)
 - [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
