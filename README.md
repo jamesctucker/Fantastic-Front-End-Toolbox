@@ -5,7 +5,11 @@
 </p>
 
 <div class="nav">
-      
+
+## About
+
+This is the list of resources I wish I had when I first started learning web development.
+
 ## Contribute
 
 Have a tool or resource that you love and think would be helpful to others? Just send a Pull Request with the details! Please follow the simple [Contribution Guidelines](https://github.com/jamesctucker/Fantastic-Front-End-Toolbox/blob/master/Contribution-Guidelines.md). Can't wait to see your suggestions!
@@ -53,7 +57,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 Many of the web developmnent roadmaps available online are arguably overwhelming to the beginner. Honestly, it's frightening to jump into a new thing and see a list of 150 niches to learn that each have their own dozen or so technologies to master.
 
-So this one is intentionally simple.
+So this one is intentionally **simple**.
 
 1. Learn [HTML](#HTML) - makes the website structured
 2. Learn [CSS](#CSS) - makes a website pretty
@@ -63,7 +67,7 @@ So this one is intentionally simple.
 
 Throughout your entire journey, make sure you build things if want to retain your knowledge.
 
-Make your motto "ABB" - Always Be Building!
+Make your motto **ABB** - Always Be Building!
 
 <!-- Comprehensive curriculums start here -->
 
