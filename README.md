@@ -1,7 +1,7 @@
 # Fantastic Front-End Toolbox
 
 <p align="center">
-      <img src="Fantastic-coding-tools-cover.png" alt="Fantastic-Coding-Tools"/>
+      <img src="cover.png" alt="Fantastic-Coding-Tools"/>
 </p>
 
 <div class="nav">
