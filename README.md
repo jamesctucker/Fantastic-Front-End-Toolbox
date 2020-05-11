@@ -217,6 +217,9 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 - [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration.
 - [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities.
 - [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations.
+- [CodePen](https://codepen.io/) - online
+- [Repl.it](https://repl.it/) - online
+- [CodeSandbox](https://codesandbox.io/) - online
 
 <!-- Deployment/hosting starts here -->
 
