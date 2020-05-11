@@ -30,6 +30,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
     - [Vanilla JS](#VanillaJs)
     - [React JS](#ReactJs)
     - [Vue JS](#VueJs)
+    - [Svelte](#Svelte)
     - [Angular 2+](#Angular)
     - [GraphQL](#GraphQL)
 - [JAMstack](#JAMstack)
@@ -62,15 +63,22 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ### HTML Tutorials <span id="HTMLTutorials"></span>
 
+- [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE&t=216s) - a hi-level, one-hour overview of HTML by Brad Traversy
+- [HTML Tutorial: How to Make a Super Simple Website](https://www.youtube.com/watch?v=PlxWf493en4) - If you're an absolute beginner in web development, you can learn the basics of HTML here. This video covers setting up an HTML file, and the basic HTML tags and what they mean.
+
 <!-- CSS Starts here -->
 
 ## CSS <span id="CSS"></span>
 
 ### CSS Tutorials <span id="CSSTutorials"></span>
 
+- [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - a hi-level, one-hour overview of CSS by Brad Traversy
+- [CSS Tutorial For Beginners](https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT) - YouTube playlist by The Net Ninja
+
 ### CSS Grid <span id="CSSGrid"></span>
 
 - [CSS Grid Playground](https://mozilladevelopers.github.io/playground/css-grid) - a playground/tutorial by Mozilla for learning CSS Grid
+- [CSS Grid Tutorial](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) - YouTube playlist by The Net Ninja
 
 ### Flexbox <span id="Flexbox"></span>
 
@@ -123,6 +131,10 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 - [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U) - an hour-long YouTube tutorial by Brad Traversy; you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc.
 
 - [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs?ref=hackr.io) - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
+
+#### Svelte <span id="Svelte></span>
+
+- [Svelte Tutorial for Beginners](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - a very thorough Svelte YouTube playlist by The Net Ninja
 
 #### Angular 2+ <span id="Angular"></span>
 
