@@ -33,6 +33,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
     - [Svelte](#Svelte)
     - [Angular 2+](#Angular)
     - [GraphQL](#GraphQL)
+  - [JavaScript Practice](#JavaScriptPractice)
 - [JAMstack](#JAMstack)
 - [Cheatsheets](#CheatSheets)
 - [Code Editors](#CodeEditors)
@@ -48,7 +49,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 <!-- Learning Roadmap starts here -->
 
-## Learning Roadmap <span id="LearningRoadmap"></span>
+## **Learning Roadmap** <span id="LearningRoadmap"></span>
 
 Many of the web developmnent roadmaps available online are arguably overwhelming to the beginner. Honestly, it's frightening to jump into a new thing and see a list of 150 niches to learn that each have their own dozen or so technologies to master.
 
@@ -62,14 +63,14 @@ So this one is intentionally simple.
 
 <!-- Comprehensive curriculums start here -->
 
-## Comprehensive Curriculum <span id="ComprehensiveCurriculum"></span>
+## **Comprehensive Curriculum** <span id="ComprehensiveCurriculum"></span>
 
 - [freeCodeCamp](https://www.freecodecamp.org/) - a free, open-source platform for learning full-stack development. There are several 300-hour courses on subjects such as front-end development, data structures, and passing code interviews. Each course completion comes with a certificate.
 - [The Odin Project](https://www.theodinproject.com) - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS. This curriculum requires you to utilize many external resources, so you'll become proficient at setting up your own coding environment and searching for valuable resources online.
 
 <!-- HTML Starts here -->
 
-## HTML <span id="HTML"></span>
+## **HTML** <span id="HTML"></span>
 
 ### HTML Tutorials <span id="HTMLTutorials"></span>
 
@@ -78,7 +79,7 @@ So this one is intentionally simple.
 
 <!-- CSS Starts here -->
 
-## CSS <span id="CSS"></span>
+## **CSS** <span id="CSS"></span>
 
 ### CSS Tutorials <span id="CSSTutorials"></span>
 
@@ -109,7 +110,7 @@ So this one is intentionally simple.
 
 <!--  JavaScript starts here -->
 
-## JavaScript <span id="JavaScript"></span>
+## **JavaScript** <span id="JavaScript"></span>
 
 ### JavaScript Tutorials <span id="JavaScriptTutorials"></span>
 
@@ -184,10 +185,15 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 - [Jest](https://jestjs.io/)
 - [Mocha](https://mochajs.org/)
 
+### JavaScript Practice <span id="JavaScriptPractice></span>
+
+- [CodeWars](https://www.codewars.com/)
+- [Edabit](https://edabit.com/)
+
 <!-- End of JavaScript -->
 <!-- JAMstack starts here -->
 
-## JAMstack <span id="JAMstack"></span>
+## **JAMstack** <span id="JAMstack"></span>
 
 JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in web development that allows developers to forgo traditional servers. Files are content are delivered to the browser before each page renders. They are heavily used for blogs and other sites where data will not be constantly updating, but other use cases have been popping up as well. You can read more about the JAMstack [here](https://jamstack.org/).
 
@@ -200,13 +206,13 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 
 <!--  Cheatsheets start here -->
 
-## Cheat Sheets <span id="CheatSheets"></span>
+## **Cheat Sheets** <span id="CheatSheets"></span>
 
 - [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
 
 <!-- Code Editors start here -->
 
-## Code Editors <span id="CodeEditors"></span>
+## **Code Editors** <span id="CodeEditors"></span>
 
 - [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration.
 - [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities.
@@ -214,7 +220,7 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 
 <!-- Deployment/hosting starts here -->
 
-## Deployment + Hosting <span id="DeploymentHosting"></span>
+## **Deployment + Hosting** <span id="DeploymentHosting"></span>
 
 - [Heroku](https://www.heroku.com/)
 - [Netlify](https://www.netlify.com/)
@@ -222,7 +228,7 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 
 <!-- Icons start here -->
 
-## Icons <span id="Icons"></span>
+## **Icons** <span id="Icons"></span>
 
 - [Devicons](https://vorillaz.github.io/devicons/#/main) - a collection of development-related icons, such as icons for programming languages
 - [Font Awesome](https://fontawesome.com/) - the web's largest collection of icons
@@ -232,7 +238,7 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 
 <!-- Illustrations start here -->
 
-## Illustrations <span id="Illustrations"></span>
+## **Illustrations** <span id="Illustrations"></span>
 
 "Wow! That stock photo really drew me into the story of your website/app/business," said no one ever. If you want to capture your audience's attention(and apparently, [you have ten seconds to do so](http://overit.com/blog/illustration-benefits)), you'll need striking, authentic imagery and illustrations.
 
@@ -242,20 +248,20 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 
 <!-- Free Images start here -->
 
-## Free Images <span id="FreeImages"></span>
+## **Free Images** <span id="FreeImages"></span>
 
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
 
 <!-- Design tools start here -->
 
-## Design Tools <span id="DesignTools"></span>
+## **Design Tools** <span id="DesignTools"></span>
 
 - [Figma](https://www.figma.com/)
 - [Framer](https://www.framer.com/)
 - [Moqups](https://moqups.com/)
 
-## Reference <span id="Reference"></span>
+## **Reference** <span id="Reference"></span>
 
 - [Dev.to](https://dev.to) - there are plenty of tech articles, and all for free! Just like Medium, it has tutorials, articles, opinions and more about all kinds of tech stuff.
 - [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
