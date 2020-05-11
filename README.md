@@ -132,7 +132,7 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 - [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs?ref=hackr.io) - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
 
-#### Svelte <span id="Svelte></span>
+#### Svelte <span id="Svelte"></span>
 
 - [Svelte Tutorial for Beginners](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - a very thorough Svelte YouTube playlist by The Net Ninja
 
