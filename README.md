@@ -16,6 +16,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Table of Contents
 
+- [Comprehensive Curriculums](#cc)
 - [HTML](#html)
 - [CSS](#css)
   - [CSS Grid](#css-grid)
@@ -31,7 +32,6 @@ Have a tool or resource that you love and think would be helpful to others? Just
     - [Vue JS](#vue-js)
     - [Angular 2+](#angular-2)
     - [GraphQL](#graphql)
-    - [Other](#other)
 - [Cheatsheets](#cheat-sheets)
 - [Code Editors](#code-editors)
 - [Deployment & Hosting](#deployment-hosting)
@@ -66,6 +66,16 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations.
 
 </article>
+
+<!-- Comprehensive curriculums start here -->
+<article id="cc">
+
+## Comprehensive Curriculums
+
+</article>
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.freecodecamp.org/)
 
 <!-- HTML Starts here -->
 <article id="html">
@@ -150,19 +160,10 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
       
 #### Vanilla JS
 
-- [Books that Junior Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586)
-  - [Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, & John Vlissides (PDF)](https://sophia.javeriana.edu.co/~cbustaca/docencia/DSBP-2018-01/recursos/Erich%20Gamma,%20Richard%20Helm,%20Ralph%20Johnson,%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20%281994%29.pdf)
-  - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans (PDF)](https://github.com/ZilvinasKucinskas/FRP-EventSourcing/blob/master/sources/xx735.Eric.Evans.Domaindriven.Design.Tackling.Complexity.in.the.Heart.of.Software.pdf)
-  - [Refactoring by Martin Fowler (PDF)](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
-- [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 - [Practical Javascript](https://watchandcode.com/p/practical-javascript) - a uniquely pragmatic approach to the online javascript course
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
-- [Front End Handbook 2019 - Frontend Masters](https://frontendmasters.com/books/front-end-handbook/2019/) - a guide that everyone can use to learn about the practice of front-end development.
 - [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 - [JavaScript30](https://javascript30.com/)
-- [JavaScript Cardio Sessions](https://www.youtube.com/playlist?list=PLillGF-Rfqbb4ZOnsNCIB-DnLuUrQjS_G)
-- [JavaScript Weekly](https://javascriptweekly.com/) - a free, once–weekly email roundup of JavaScript news and articles.
-- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
 
@@ -192,8 +193,6 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 - [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U) - an hour-long YouTube tutorial by Brad Traversy; you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc.
 
-- [Laracasts - Learn Vue 2: Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step?ref=hackr.io) - the most upvoted Vue tutorial on hackr.io.
-
 - [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs?ref=hackr.io) - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
 
 </article>
@@ -212,8 +211,6 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 - [GraphQL Full Course: Novice to Expert](https://www.youtube.com/watch?v=ed8SzALpx1Q) - a four-hour long course by freeCodeCamp
 
-- [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8) - a documentary by Honeypot regarding the history of GraphQL and the reasons it was created.
-
 - [GraphQL: Official Documentation](https://graphql.org/) - self-explanatory :)
 
 - [Apollo-GraphQL: Official Documentation](https://www.apollographql.com/) - Apollo is the industry-standard GraphQL implementation, providing the data graph layer that connects modern apps to the cloud.
@@ -225,14 +222,7 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 - [Managing Local State with Apollo Client and React Hooks](https://itnext.io/managing-local-state-with-apollo-client-and-react-hooks-9ad357e6d649) - Is it time to kiss Redux goodbye in your GraphQL projects? No one can say for sure, but Apollo Client now provides a way to store your entire state within its cache.
 
 </article>
-
-<article id="ot">
-      
-#### Other
-
-- [Frontend Masters](https://frontendmasters.com) - a subscription-based platform for learning cutting-edge front-end technologies. Tutorials taught by world-class experts.
-
-</article>
+<!-- End of JavaScript -->
 
 <article id="deployment-hosting">
 
