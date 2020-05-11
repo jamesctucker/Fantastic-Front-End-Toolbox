@@ -61,9 +61,15 @@ So this one is intentionally simple.
 4. Learn a [framework](#JavaScriptFrameworks) - arguably makes development time shorter and less painful; good options include Vue, Svelte, and React.
 5. Learn the backend: gets the website's data and content; you don't necessarily have to master the backend - but it's helpful, and often desired by employers, for frontend developers to know how to hook up the frontend to the backend. Options include Node.js (which is JavaScript), Ruby on Rails, Java, or Python.
 
+Throughout your entire journey, make sure you build things if want to retain your knowledge.
+
+Make your motto "ABB" - Always Be Building!
+
 <!-- Comprehensive curriculums start here -->
 
 ## **Comprehensive Curriculum** <span id="ComprehensiveCurriculum"></span>
+
+If you've decided to commit to self-learning, the following two curriculums are absolutely free, widely-respected, and cover the entire web development stack - from frontend to backend. My personal opinion is that you should choose one of these to avoid tutorial hell/lack of direction, and supplement with other videos/courses/articles.
 
 - [freeCodeCamp](https://www.freecodecamp.org/) - a free, open-source platform for learning full-stack development. There are several 300-hour courses on subjects such as front-end development, data structures, and passing code interviews. Each course completion comes with a certificate.
 - [The Odin Project](https://www.theodinproject.com) - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS. This curriculum requires you to utilize many external resources, so you'll become proficient at setting up your own coding environment and searching for valuable resources online.
@@ -116,6 +122,8 @@ So this one is intentionally simple.
 
 #### Vanilla JS <span id="VanillaJs"></span>
 
+"Vanilla" is JavaScript without a framework. Start here before jumping on a framework!
+
 - [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - my favorite JavaScript reference; very-well written
 - [Practical Javascript](https://watchandcode.com/p/practical-javascript) - a uniquely pragmatic approach to the online javascript course
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -124,6 +132,8 @@ So this one is intentionally simple.
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
 
 #### React JS <span id="ReactJs"></span>
+
+Most popular/used framework. Gigantic ecosystem of resources.
 
 - [Full Stack Open 2020](https://fullstackopen.com/en/) - a free course run by the University of Helsinki with the main focus of building single page applications with ReactJS that use REST APIs built with Node.js.
 
@@ -135,6 +145,8 @@ So this one is intentionally simple.
 
 #### Vue JS <span id="VueJs"></span>
 
+Has arguably the easiest learning curve for beginners. Large ecosystem of resources and documentation.
+
 Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries. (taken from the [official Vue.js site](https://vuejs.org/v2/guide/))
 
 - [Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) - a Udemy course considered to be one of the most comprehensive Vue.js tutorials available; each concept is broken down into a bite-sized 2-3 minute video and hands-on learning.
@@ -144,6 +156,8 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 - [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs?ref=hackr.io) - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
 
 #### Svelte <span id="Svelte"></span>
+
+The new kid on the block in the framework world. Incredibly quick to set up, and fun to write code in.
 
 - [Svelte Tutorial for Beginners](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - a very thorough Svelte YouTube playlist by The Net Ninja
 
@@ -175,6 +189,8 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 ### JavaScript Frameworks <span id="JavaScriptFrameworks"></span>
 
+These are arguably the four most popular at the moment. Don't jump to these until you have a solid grasp of JavaScript fundamentals.
+
 - [Angular](https://angular.io/)
 - [React.js](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
@@ -182,10 +198,14 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 ### JavaScript Testing <span id="JavaScriptTesting"></span>
 
+Libraries for testing your code. You want to test your code for bugs so your users will have smooth web experiences.
+
 - [Jest](https://jestjs.io/)
 - [Mocha](https://mochajs.org/)
 
 ### JavaScript Practice <span id="JavaScriptPractice></span>
+
+Sites for practicing your JavaScript skills. Grow your muscles by solving challenging problems. Learn useful algorithms and data structures.
 
 - [CodeWars](https://www.codewars.com/)
 - [Edabit](https://edabit.com/)
@@ -214,6 +234,8 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 
 ## **Code Editors** <span id="CodeEditors"></span>
 
+The program you write your code with.
+
 - [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration.
 - [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities.
 - [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations.
@@ -224,6 +246,8 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 <!-- Deployment/hosting starts here -->
 
 ## **Deployment + Hosting** <span id="DeploymentHosting"></span>
+
+How you publish your website or web app to the world.
 
 - [Heroku](https://www.heroku.com/)
 - [Netlify](https://www.netlify.com/)
@@ -259,6 +283,8 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 <!-- Design tools start here -->
 
 ## **Design Tools** <span id="DesignTools"></span>
+
+Tools for creating wireframes
 
 - [Figma](https://www.figma.com/)
 - [Framer](https://www.framer.com/)
