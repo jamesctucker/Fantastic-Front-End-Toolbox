@@ -24,6 +24,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
   - [CSS Tutorials](#CSSTutorials)
   - [CSS Grid](#CSSGrid)
   - [Flexbox](#Flexbox)
+  - [CSS Frameworks + Libraries](#CSSLibraries)
   - [General Resources](#GeneralResources)
 - [JavaScript](#JavaScript)
   - [JavaScript Boilerplate](#JavaScriptBoilerplate)
@@ -35,6 +36,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
     - [Vue JS](#VueJs)
     - [Angular 2+](#Angular)
     - [GraphQL](#GraphQL)
+- [JAMstack](#JAMstack)
 - [Cheatsheets](#CheatSheets)
 - [Code Editors](#CodeEditors)
 - [Deployment + Hosting](#DeploymentHosting)
@@ -43,8 +45,6 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [Free Images](#FreeImages)
 - [Design Tools](#DesignTools)
 - [Reference](#reference)
-- [CSS Frameworks + Libraries](#CSSLibraries)
-
 </div>
 
 <main>
@@ -81,6 +81,14 @@ Have a tool or resource that you love and think would be helpful to others? Just
 - [Flexbox Froggy](https://flexboxfroggy.com/) - a game where you help Froggy and friends by writing CSS code
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.
 
+### CSS Frameworks + Libraries <span id="CSSLibraries"></span>
+
+- [Ant Design](https://ant.design/)
+- [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
+- [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox.
+- [Material UI](http://material-ui.com/) - React components for faster and easier web development.
+- [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+
 ### General Resources <span id="GeneralResources"></span>
 
 - [CSS Tricks](https://css-tricks.com) - the name should be self-explanatory :). A huge collection of CSS guides, tips, and how-tos. You'll also find some HTML and JavaScript sprinkled in with everything.
@@ -88,26 +96,6 @@ Have a tool or resource that you love and think would be helpful to others? Just
 <!--  JavaScript starts here -->
 
 ## JavaScript <span id="JavaScript"></span>
-
-### JavaScript Boilerplate <span id="JavaScriptBoilerplate"></span>
-
-Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-numbing process of gathering all the necessary dependencies needed to create a new app. So here are some awesome code templates that'll enable you to start your development in no time at all.
-
-- [Create-React-App](https://github.com/facebook/create-react-app) - if you've ever dabbled with React, you already know what this is
-- [React Slingshot](https://github.com/coryhouse/react-slingshot)
-- [Simple React App](https://github.com/Kornil/simple-react-app)
-
-### JavaScript Frameworks <span id="JavaScriptFrameworks"></span>
-
-- [Angular](https://angular.io/)
-- [React.js](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Svelte](https://svelte.dev/)
-
-### JavaScript Testing <span id="JavaScriptTesting"></span>
-
-- [Jest](https://jestjs.io/)
-- [Mocha](https://mochajs.org/)
 
 ### JavaScript Tutorials <span id="JavaScriptTutorials"></span>
 
@@ -158,7 +146,39 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 - [Managing Local State with Apollo Client and React Hooks](https://itnext.io/managing-local-state-with-apollo-client-and-react-hooks-9ad357e6d649) - Is it time to kiss Redux goodbye in your GraphQL projects? No one can say for sure, but Apollo Client now provides a way to store your entire state within its cache.
 
+### JavaScript Boilerplate <span id="JavaScriptBoilerplate"></span>
+
+Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-numbing process of gathering all the necessary dependencies needed to create a new app. So here are some awesome code templates that'll enable you to start your development in no time at all.
+
+- [Create-React-App](https://github.com/facebook/create-react-app) - if you've ever dabbled with React, you already know what this is
+- [React Slingshot](https://github.com/coryhouse/react-slingshot)
+- [Simple React App](https://github.com/Kornil/simple-react-app)
+
+### JavaScript Frameworks <span id="JavaScriptFrameworks"></span>
+
+- [Angular](https://angular.io/)
+- [React.js](https://reactjs.org/)
+- [Vue.js](https://vuejs.org/)
+- [Svelte](https://svelte.dev/)
+
+### JavaScript Testing <span id="JavaScriptTesting"></span>
+
+- [Jest](https://jestjs.io/)
+- [Mocha](https://mochajs.org/)
+
 <!-- End of JavaScript -->
+<!-- JAMstack starts here -->
+
+## JAMstack <span id="JAMstack"></span>
+
+JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in web development that allows developers to forgo traditional servers. Files are content are delivered to the browser before each page renders. They are heavily used for blogs and other sites where data will not be constantly updating, but other use cases have been popping up as well. You can read more about the JAMstack [here](https://jamstack.org/).
+
+- [Next.js](https://nextjs.org/) - an extremely popular framework for React
+- [Nuxt.js](https://nuxtjs.org/) - the Vue counterpart to Next
+- [Gatsby](https://www.gatsbyjs.org/) - a React framework that offers a rich ecosystem of plugins and recipes for quick project set-up
+- [Sapper.js](https://sapper.svelte.dev/) - the Svelte counterpart to Next
+- [Eleventy](https://www.11ty.dev/) - a minimalistic static site generator
+- [Hugo](https://gohugo.io/) - a HTML-focused framework with fast build times and a large library of themes
 
 <!--  Cheatsheets start here -->
 
@@ -221,12 +241,3 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 - [Dev.to](https://dev.to) - there are plenty of tech articles, and all for free! Just like Medium, it has tutorials, articles, opinions and more about all kinds of tech stuff.
 - [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
 - [Scotch.io](https://scotch.io) - fun and practical web development tutorials
-
-## CSS Frameworks + Libraries <span id="CSSLibraries"></span>
-
-- [Ant Design](https://ant.design/)
-- [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
-- [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox.
-- [Material UI](http://material-ui.com/) - React components for faster and easier web development.
-- [Semantic UI](https://semantic-ui.com/)
-- [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
