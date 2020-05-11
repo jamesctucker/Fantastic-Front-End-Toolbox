@@ -16,6 +16,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Table of Contents
 
+- [Learning Roadmap](#LearningRoadmap)
 - [Comprehensive Curriculum](#ComprehensiveCurriculum)
 - [HTML](#HTML)
 - [CSS](#CSS)
@@ -32,39 +33,23 @@ Have a tool or resource that you love and think would be helpful to others? Just
     - [Vue JS](#VueJs)
     - [Angular 2+](#Angular)
     - [GraphQL](#GraphQL)
-- [Cheatsheets](#cheat-sheets)
-- [Code Editors](#code-editors)
-- [Deployment & Hosting](#deployment-hosting)
-- [Icons](#icons)
-- [Illustrations](#illustrations)
-- [Mockup Tools](#mockup-tools)
+- [Cheatsheets](#CheatSheets)
+- [Code Editors](#CodeEditors)
+- [Deployment + Hosting](#DeploymentHosting)
+- [Icons](#Icons)
+- [Illustrations](#Illustrations)
+- [Free Images](#FreeImages)
+- [Design Tools](#DesignTools)
 - [Reference](#reference)
-- [UI & CSS Frameworks](#ui-css)
+- [CSS Frameworks + Libraries](#CSSLibraries)
 
 </div>
 
 <main>
-      
-<span id="cheat-sheets">
 
-## Cheat Sheets
+<!-- Learning Roadmap starts here -->
 
-- [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
-- [Vue Unit-Testing](https://github.com/dekadentno/vue-unit-testing-cheat-sheet) - handy reference for all things Vue testing, including Jest and Vue-Test-Utils
-
-</span>
-     
-<span id="code-editors">
-
-## Code Editors
-
-- [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration.
-- [Android Studio](https://developer.android.com/studio/) - Google's official IDE for Android development.
-- [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities.
-- [IntelliJ](https://www.jetbrains.com/idea/) - an enterprise-level editor ideally used for writing code in Kotlin or Java.
-- [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations.
-
-</span>
+## Learning Roadmap <span id="LearningRoadmap"></span>
 
 <!-- Comprehensive curriculums start here -->
 
@@ -168,30 +153,41 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 
 <!-- End of JavaScript -->
 
-<span id="deployment-hosting">
+<!--  Cheatsheets start here -->
 
-## Deployment & Hosting
+## Cheat Sheets <span id="CheatSheets"></span>
+
+- [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
+- [Vue Unit-Testing](https://github.com/dekadentno/vue-unit-testing-cheat-sheet) - handy reference for all things Vue testing, including Jest and Vue-Test-Utils
+
+<!-- Code Editors start here -->
+
+## Code Editors <span id="CodeEditors"></span>
+
+- [Atom](https://atom.io/) - a lightweight, open-source editor featuring Teletype, a tool for real-time collaboration.
+- [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities.
+- [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations.
+
+<!-- Deployment/hosting starts here -->
+
+## Deployment + Hosting <span id="DeploymentHosting"></span>
 
 - [Heroku](https://www.heroku.com/)
 - [Netlify](https://www.netlify.com/)
 - [Now](https://zeit.co/now)
 
-</span>
+<!-- Icons start here -->
 
-<span id="icons">
-
-## Icons
+## Icons <span id="Icons"></span>
 
 - [Devicons](https://vorillaz.github.io/devicons/#/main) - a collection of development-related icons, such as icons for programming languages
 - [Font Awesome](https://fontawesome.com/) - the web's largest collection of icons
 - [Material UI Icons](https://material-ui.com/style/icons/) - a large assortment of icons based on material design
 - [Octicons](https://octicons.github.com/) - a GitHub-themed icon collection
 
-</span>
+<!-- Illustrations start here -->
 
-<span id="illustrations">
-
-## Illustrations
+## Illustrations <span id="Illustrations"></span>
 
 "Wow! That stock photo really drew me into the story of your website/app/business," said no one ever. If you want to capture your audience's attention(and apparently, [you have ten seconds to do so](http://overit.com/blog/illustration-benefits)), you'll need striking, authentic imagery and illustrations.
 
@@ -199,31 +195,25 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 - [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
 - [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
 
-</span>
+<!-- Free Images start here -->
 
-<span id="mockup-tools">
+## Free Images <span id="FreeImages"></span>
 
-## Mockup Tools
+<!-- Design tools start here -->
+
+## Design Tools <span id="DesignTools"></span>
 
 - [Figma](https://www.figma.com/)
 - [Framer](https://www.framer.com/)
 - [Moqups](https://moqups.com/)
 
-</span>
-
-<span id="reference">
-
-## Reference
+## Reference <span id="Reference"></span>
 
 - [Dev.to](https://dev.to) - there are plenty of tech articles, and all for free! Just like Medium, it has tutorials, articles, opinions and more about all kinds of tech stuff.
 - [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
 - [Scotch.io](https://scotch.io) - fun and practical web development tutorials
 
-</span>
-
-<span id="ui-css">
-
-## UI & CSS Frameworks
+## CSS Frameworks + Libraries <span id="CSSLibraries"></span>
 
 - [Ant Design](https://ant.design/)
 - [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
@@ -232,5 +222,3 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 - [Material UI](http://material-ui.com/) - React components for faster and easier web development.
 - [Semantic UI](https://semantic-ui.com/)
 - [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
-
-</span>
