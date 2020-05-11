@@ -12,7 +12,6 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Roadmap
 
-- Add Kotlin for web development resources
 - Suggestions?
 
 ## Table of Contents
@@ -23,16 +22,16 @@ Have a tool or resource that you love and think would be helpful to others? Just
   - [Flexbox](#flexbox)
   - [General Resources](#general-resources)
 - [JavaScript](#javascript)
-- [JavaScript Boilerplate](#javascript-boilerplate)
-- [JavaScript Libraries](#javascript-libraries)
-- [JavaScript Testing](#javascript-testing)
-- [JavaScript Tutorials](#javascript-tutorials)
-  - [Vanilla JS](#vanilla-js)
-  - [React JS](#react-js)
-  - [Vue JS](#vue-js)
-  - [Angular 2+](#angular-2)
-  - [GraphQL](#graphql)
-  - [Other](#other)
+  - [JavaScript Boilerplate](#javascript-boilerplate)
+  - [JavaScript Frameworks](#javascript-frameworks)
+  - [JavaScript Testing](#javascript-testing)
+  - [JavaScript Tutorials](#javascript-tutorials)
+    - [Vanilla JS](#vanilla-js)
+    - [React JS](#react-js)
+    - [Vue JS](#vue-js)
+    - [Angular 2+](#angular-2)
+    - [GraphQL](#graphql)
+    - [Other](#other)
 - [Cheatsheets](#cheat-sheets)
 - [Code Editors](#code-editors)
 - [Deployment & Hosting](#deployment-hosting)
@@ -121,17 +120,14 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 </article>
 
-<article id="jl">
+<article id="jf">
 
-### JavaScript Libraries
+### JavaScript Frameworks
 
 - [Angular](https://angular.io/)
-- [Gatsby](http://gatsbyjs.org/)
-- [Moment](https://momentjs.com/)
 - [React.js](https://reactjs.org/)
-- [Redux](https://redux.js.org/)
 - [Vue.js](https://vuejs.org/)
-- [Webpack](https://webpack.js.org/)
+- [Svelte](https://svelte.dev/)
 
 </article>
 
