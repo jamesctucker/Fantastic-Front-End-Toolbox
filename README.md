@@ -151,7 +151,7 @@ Make your motto **ABB** - Always Be Building!
 
 > Has arguably the easiest learning curve for beginners. Large ecosystem of resources and documentation.
 
-Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries. (taken from the [official Vue.js site](https://vuejs.org/v2/guide/))
+- [official Documentation](https://vuejs.org/v2/guide/)
 
 - [Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) - a Udemy course considered to be one of the most comprehensive Vue.js tutorials available; each concept is broken down into a bite-sized 2-3 minute video and hands-on learning.
 
@@ -166,22 +166,6 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 - [Svelte Tutorial for Beginners](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - a very thorough Svelte YouTube playlist by The Net Ninja
 
 #### Angular 2+ <span id="Angular"></span>
-
-#### GraphQL <span id="GraphQL"></span>
-
-> GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
-
-- [GraphQL Full Course: Novice to Expert](https://www.youtube.com/watch?v=ed8SzALpx1Q) - a four-hour long course by freeCodeCamp
-
-- [GraphQL: Official Documentation](https://graphql.org/) - self-explanatory :)
-
-- [Apollo-GraphQL: Official Documentation](https://www.apollographql.com/) - Apollo is the industry-standard GraphQL implementation, providing the data graph layer that connects modern apps to the cloud.
-
-- [Intro to GraphQL](https://frontendmasters.com/courses/graphql/) - Learn how GraphQL empowers more flexibility into your APIs – and learn to build GraphQL APIs with Apollo Server! You'll create GraphQL Schemas using scalar types, object type, queries and mutations. Then create resolvers to fullfill the data. Use interfaces and unions. Finally, add authentication to lock down resources.
-
-- [Advanced GraphQL](https://frontendmasters.com/courses/advanced-graphql/) - In this course Scott Moss — returning Frontend Masters instructor and CEO of Tipe — demonstrates the techniques he uses to make his GraphQL API’s production-ready, such as Nested Resolvers, Caching and Testing. Learn everything you need to know about building production-ready GraphQL APIs!
-
-- [Managing Local State with Apollo Client and React Hooks](https://itnext.io/managing-local-state-with-apollo-client-and-react-hooks-9ad357e6d649) - Is it time to kiss Redux goodbye in your GraphQL projects? No one can say for sure, but Apollo Client now provides a way to store your entire state within its cache.
 
 ### JavaScript Boilerplate <span id="JavaScriptBoilerplate"></span>
 
@@ -290,9 +274,10 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 
 > Tools for creating wireframes
 
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/) - free web tool for creating website and app designs
 - [Framer](https://www.framer.com/)
 - [Moqups](https://moqups.com/)
+- [Canva](https://www.canva.com/) - free online tool for creating graphics and other Photoshop-like features
 
 ## **Reference** <span id="Reference"></span>
 
