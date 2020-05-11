@@ -50,6 +50,16 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Learning Roadmap <span id="LearningRoadmap"></span>
 
+Many of the web developmnent roadmaps available online are arguably overwhelming to the beginner. Honestly, it's frightening to jump into a new thing and see a list of 150 niches to learn that each have their own dozen or so technologies to master.
+
+So this one is intentionally simple.
+
+1. Learn HTML - makes the website structured
+2. Learn CSS - makes a website pretty
+3. Learn JavaScript - makes a website interactive
+4. Learn a framework - arguably makes development time shorter and less painful; good options include Vue, Svelte, and React.
+5. Learn the backend: gets the website's data and content; you don't necessarily have to master the backend - but it's helpful, and often desired by employers, for frontend developers to know how to hook up the frontend to the backend. Options include Node.js (which is JavaScript), Ruby on Rails, Java, or Python.
+
 <!-- Comprehensive curriculums start here -->
 
 ## Comprehensive Curriculum <span id="ComprehensiveCurriculum"></span>
