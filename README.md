@@ -10,13 +10,9 @@
 
 Have a tool or resource that you love and think would be helpful to others? Just send a Pull Request with the details! Please follow the simple [Contribution Guidelines](https://github.com/jamesctucker/Fantastic-Front-End-Toolbox/blob/master/Contribution-Guidelines.md). Can't wait to see your suggestions!
 
-## Roadmap
-
-- Suggestions?
-
 ## Table of Contents
 
-- [Learning Roadmap](#LearningRoadmap)
+- [Learning Roadmap](#LearningRoadmap) <- Start here!
 - [Comprehensive Curriculum](#ComprehensiveCurriculum)
 - [HTML](#HTML)
   - [HTML Tutorials](#HTMLTutorials)
@@ -101,16 +97,16 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 #### Vanilla JS <span id="VanillaJs"></span>
 
+- [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - my favorite JavaScript reference; very-well written
 - [Practical Javascript](https://watchandcode.com/p/practical-javascript) - a uniquely pragmatic approach to the online javascript course
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 - [JavaScript30](https://javascript30.com/)
-- [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
 
 #### React JS <span id="ReactJs"></span>
 
-- [Full Stack Open 2019](https://fullstackopen.com/en/) - a free course run by the University of Helsinki with the main focus of building single page applications with ReactJS that use REST APIs built with Node.js.
+- [Full Stack Open 2020](https://fullstackopen.com/en/) - a free course run by the University of Helsinki with the main focus of building single page applications with ReactJS that use REST APIs built with Node.js.
 
 - [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A) - a 30,000 foot view of React from Brad Traversy; an hour-long YouTube tutorial.
 
@@ -210,6 +206,7 @@ JAMstack stands for JavaScript, APIs, and Markup. It is a fairly recent trend in
 - [Font Awesome](https://fontawesome.com/) - the web's largest collection of icons
 - [Material UI Icons](https://material-ui.com/style/icons/) - a large assortment of icons based on material design
 - [Octicons](https://octicons.github.com/) - a GitHub-themed icon collection
+- [Feather Icons](https://feathericons.com/) - minimalist icon collection
 
 <!-- Illustrations start here -->
 
