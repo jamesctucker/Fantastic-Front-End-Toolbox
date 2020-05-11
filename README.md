@@ -16,7 +16,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Table of Contents
 
-- [Comprehensive Curriculums](#cc)
+- [Comprehensive Curriculum](#ComprehensiveCurriculum)
 - [HTML](#html)
 - [CSS](#css)
   - [CSS Grid](#css-grid)
@@ -68,11 +68,8 @@ Have a tool or resource that you love and think would be helpful to others? Just
 </article>
 
 <!-- Comprehensive curriculums start here -->
-<article id="cc">
 
-## Comprehensive Curriculums
-
-</article>
+## Comprehensive Curriculum <span id="ComprehensiveCurriculum"></span>
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [The Odin Project](https://www.freecodecamp.org/)
