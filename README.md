@@ -1,7 +1,7 @@
 # Fantastic Front-End Toolbox
 
 <p align="center">
-      <img src="cover.png" alt="Fantastic-Coding-Tools"/>
+    <img src="cover.png" alt="Fantastic-Coding-Tools"/>
 </p>
 
 <div class="nav">
@@ -17,28 +17,28 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 ## Table of Contents
 
-- [Cheatsheets](#cheat-sheets)
-- [Code Editors](#code-editors)
+- [HTML](#html)
 - [CSS](#css)
   - [CSS Grid](#css-grid)
   - [Flexbox](#flexbox)
   - [General Resources](#general-resources)
+- [JavaScript](#javascript)
+- [JavaScript Boilerplate](#javascript-boilerplate)
+- [JavaScript Libraries](#javascript-libraries)
+- [JavaScript Testing](#javascript-testing)
+- [JavaScript Tutorials](#javascript-tutorials)
+  - [Vanilla JS](#vanilla-js)
+  - [React JS](#react-js)
+  - [Vue JS](#vue-js)
+  - [Angular 2+](#angular-2)
+  - [GraphQL](#graphql)
+  - [Other](#other)
+- [Cheatsheets](#cheat-sheets)
+- [Code Editors](#code-editors)
 - [Deployment & Hosting](#deployment-hosting)
-- [HTML](#html)
 - [Icons](#icons)
 - [Illustrations](#illustrations)
 - [General Development Tutorials/Curriculum](#gwdt)
-- [JavaScript](#javascript)
-  - [JavaScript Boilerplate](#javascript-boilerplate)
-  - [JavaScript Libraries](#javascript-libraries)
-  - [JavaScript Testing](#javascript-testing)
-  - [JavaScript Tutorials](#javascript-tutorials)
-    - [Vanilla JS](#vanilla-js)
-    - [React JS](#react-js)
-    - [Vue JS](#vue-js)
-    - [Angular 2+](#angular-2)
-    - [GraphQL](#graphql)
-    - [Other](#other)
 - [Mockup Tools](#mockup-tools)
 - [Reference](#reference)
 - [UI & CSS Frameworks](#ui-css)
@@ -68,6 +68,14 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 </article>
 
+<!-- HTML Starts here -->
+<article id="html">
+
+## HTML
+
+</article>
+
+<!-- CSS Starts here -->
 <article id="css">
 
 ## CSS
@@ -94,54 +102,7 @@ Have a tool or resource that you love and think would be helpful to others? Just
 
 </article>
 
-<article id="deployment-hosting">
-
-## Deployment & Hosting
-
-- [Heroku](https://www.heroku.com/)
-- [Netlify](https://www.netlify.com/)
-- [Now](https://zeit.co/now)
-
-</article>
-
-<article id="html">
-
-## HTML
-
-</article>
-
-<article id="icons">
-
-## Icons
-
-- [Devicons](https://vorillaz.github.io/devicons/#/main) - a collection of development-related icons, such as icons for programming languages
-- [Font Awesome](https://fontawesome.com/) - the web's largest collection of icons
-- [Material UI Icons](https://material-ui.com/style/icons/) - a large assortment of icons based on material design
-- [Octicons](https://octicons.github.com/) - a GitHub-themed icon collection
-
-</article>
-
-<article id="illustrations">
-
-## Illustrations
-
-"Wow! That stock photo really drew me into the story of your website/app/business," said no one ever. If you want to capture your audience's attention(and apparently, [you have ten seconds to do so](http://overit.com/blog/illustration-benefits)), you'll need striking, authentic imagery and illustrations.
-
-- [IRA Design](https://iradesign.io/) - build your own illustrations with free pre-existing gradient images.
-- [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
-- [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
-
-</article>
-
-<article id="gwdt">
-
-## General Development Tutorials/Curriculums
-
-- [freeCodeCamp](https://www.freecodecamp.org/) - a free, open-source platform for learning full-stack development. There are several 300-hour courses on subjects such as front-end development, data structures, and passing code interviews. Each course completion comes with a certificate.
-- [The Odin Project](https://www.theodinproject.com) - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS. This curriculum requires you to utilize many external resources, so you'll become proficient at setting up your own coding environment and searching for valuable resources online.
-
-</article>
-
+<!--  JavaScript starts here -->
 <article id="javascript">
 
 ## JavaScript
@@ -274,6 +235,48 @@ GraphQL is a query language for APIs and a runtime for fulfilling those queries 
 #### Other
 
 - [Frontend Masters](https://frontendmasters.com) - a subscription-based platform for learning cutting-edge front-end technologies. Tutorials taught by world-class experts.
+
+</article>
+
+<article id="deployment-hosting">
+
+## Deployment & Hosting
+
+- [Heroku](https://www.heroku.com/)
+- [Netlify](https://www.netlify.com/)
+- [Now](https://zeit.co/now)
+
+</article>
+
+<article id="icons">
+
+## Icons
+
+- [Devicons](https://vorillaz.github.io/devicons/#/main) - a collection of development-related icons, such as icons for programming languages
+- [Font Awesome](https://fontawesome.com/) - the web's largest collection of icons
+- [Material UI Icons](https://material-ui.com/style/icons/) - a large assortment of icons based on material design
+- [Octicons](https://octicons.github.com/) - a GitHub-themed icon collection
+
+</article>
+
+<article id="illustrations">
+
+## Illustrations
+
+"Wow! That stock photo really drew me into the story of your website/app/business," said no one ever. If you want to capture your audience's attention(and apparently, [you have ten seconds to do so](http://overit.com/blog/illustration-benefits)), you'll need striking, authentic imagery and illustrations.
+
+- [IRA Design](https://iradesign.io/) - build your own illustrations with free pre-existing gradient images.
+- [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
+- [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
+
+</article>
+
+<article id="gwdt">
+
+## General Development Tutorials/Curriculums
+
+- [freeCodeCamp](https://www.freecodecamp.org/) - a free, open-source platform for learning full-stack development. There are several 300-hour courses on subjects such as front-end development, data structures, and passing code interviews. Each course completion comes with a certificate.
+- [The Odin Project](https://www.theodinproject.com) - a free, open-source curriculum for learning web development. Courses on JavaScript, Ruby on Rails, HTML, and CSS. This curriculum requires you to utilize many external resources, so you'll become proficient at setting up your own coding environment and searching for valuable resources online.
 
 </article>
 
