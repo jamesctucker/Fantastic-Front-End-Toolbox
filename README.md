@@ -260,6 +260,7 @@ Make your motto **ABB** - Always Be Building!
 - [IRA Design](https://iradesign.io/) - build your own illustrations with free pre-existing gradient images.
 - [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
 - [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
+- [Blush](https://blush.design/) - a large collection of free illustrations from various designers; illustrations range from people all the way to food
 
 <!-- Free Images start here -->
 
