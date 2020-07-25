@@ -86,6 +86,7 @@ Make your motto **ABB** - Always Be Building!
 
 - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE&t=216s) - a hi-level, one-hour overview of HTML by Brad Traversy
 - [HTML Tutorial: How to Make a Super Simple Website](https://www.youtube.com/watch?v=PlxWf493en4) - If you're an absolute beginner in web development, you can learn the basics of HTML here. This video covers setting up an HTML file, and the basic HTML tags and what they mean.
+- [HTML Tutorial: HTML Course: Learn to code HTML & CSS by Shay Howe](https://learn.shayhowe.com/html-css/building-your-first-web-page/) - This free course by Shay Howe acts as a good reference for HTML, it covers a lot of the content in detail starting with a simple HTML web page to a full fledged web page. There is also an extension of this course, [HTML Course: Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/), for an advanced overview of more topics in HTML.
 
 <!-- CSS Starts here -->
 
