@@ -134,6 +134,7 @@ Make your motto **ABB** - Always Be Building!
 - [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 - [JavaScript30](https://javascript30.com/)
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
+- [JavaScript, the right way](https://jstherightway.org/) - a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.
 
 #### React JS <span id="ReactJs"></span>
 
