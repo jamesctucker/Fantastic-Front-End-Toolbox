@@ -158,6 +158,8 @@ Make your motto **ABB** - Always Be Building!
 - [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U) - an hour-long YouTube tutorial by Brad Traversy; you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc.
 
 - [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs?ref=hackr.io) - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
+- [Materio Free Vuetify VueJS Admin Template](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template/) - An Open-source & Easy to use 🤩 Vuetify Vuejs Admin Template with Elegant Design & Unique Layout.
+
 
 #### Svelte <span id="Svelte"></span>
 
@@ -217,6 +219,7 @@ Make your motto **ABB** - Always Be Building!
 ## **Cheat Sheets** <span id="CheatSheets"></span>
 
 - [Devhints](https://devhints.io/) - handy syntax & command reference for hundreds of languages and technologies
+- [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/) - An interactive list of Bootstrap 5 classes, variables, and mixins
 
 <!-- Code Editors start here -->
 
