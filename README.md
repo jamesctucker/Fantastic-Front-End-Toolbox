@@ -146,6 +146,7 @@ Make your motto **ABB** - Always Be Building!
 - [Mastering React by Mosh](https://codewithmosh.com/p/mastering-react) - a 12-hour-long series of videos where you learn React fundamentals by building a video rental app.
 
 - [Official React Tutorial](https://reactjs.org/tutorial/tutorial.html) - you will learn React by building an interactive tic-tac-toe game.
+- [Materio Free MUI React NextJS Amdin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Open-source MUI React NextJS Admin Dashboard Template built for developers
 
 #### Vue JS <span id="VueJs"></span>
 
