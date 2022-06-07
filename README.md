@@ -261,6 +261,7 @@ Make your motto **ABB** - Always Be Building!
 - [Undraw](https://undraw.co/) - a constantly updated collection of beautiful, free SVG images that don't require attribution.
 - [Hero Patterns](https://www.heropatterns.com/) - a collection of repeatable SVG background patterns for you to use on your web projects.
 - [Blush](https://blush.design/) - a large collection of free illustrations from various designers; illustrations range from people all the way to food
+- [Illustrations Figma](https://www.artify.co/illustrations-figma) - More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.
 
 <!-- Free Images start here -->
 
