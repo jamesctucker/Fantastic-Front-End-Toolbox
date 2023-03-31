@@ -146,7 +146,8 @@ Make your motto **ABB** - Always Be Building!
 - [Mastering React by Mosh](https://codewithmosh.com/p/mastering-react) - a 12-hour-long series of videos where you learn React fundamentals by building a video rental app.
 
 - [Official React Tutorial](https://reactjs.org/tutorial/tutorial.html) - you will learn React by building an interactive tic-tac-toe game.
-- [React Admin](https://www.wrappixel.com/templates/category/react-templates/)| Download the Free react admin dashboard templates by WrapPixel 
+- [React Admin Template](https://www.wrappixel.com/templates/category/react-templates/) - Download the Free React Admin Templates by WrapPixel Team.
+- [React Admin Dashboard Template](https://adminmart.com/templates/react/) - Download Best Free React Admin Dashboard Templates from AdminMart. 
 
 #### Vue JS <span id="VueJs"></span>
 
@@ -159,7 +160,8 @@ Make your motto **ABB** - Always Be Building!
 - [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U) - an hour-long YouTube tutorial by Brad Traversy; you will learn all about Vue.js including what it is, Vue-CLI, components, data, events, directives, etc.
 
 - [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs?ref=hackr.io) - a free tutorial by Scotch.io where you'll learn by creating a lightweight event bulletin board.
-- [Vuejs Admin](https://www.wrappixel.com/templates/category/vuejs-templates/)|Download Free Vuejs Admin Dashboard By WrapPixel 
+- [VueJs Admin Template](https://www.wrappixel.com/templates/category/vuejs-templates/) - Download the Free VueJs Admin Templates by WrapPixel Team.
+- [VueJs Admin Dashboard Template](https://adminmart.com/templates/vuejs/) - Download Best Free VueJs Admin Dashboard Templates from AdminMart. 
 
 #### Svelte <span id="Svelte"></span>
 
