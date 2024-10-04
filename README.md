@@ -288,3 +288,4 @@ Make your motto **ABB** - Always Be Building!
 - [Dev.to](https://dev.to) - there are plenty of tech articles, and all for free! Just like Medium, it has tutorials, articles, opinions and more about all kinds of tech stuff.
 - [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
 - [Scotch.io](https://scotch.io) - fun and practical web development tutorials
+- [Scaler Blogs](https://www.scaler.com/blog/front-end-developer-roadmap/) - Navigate the tech career from beginner to expert with comprehensive roadmap articles.
