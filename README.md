@@ -118,6 +118,7 @@ Make your motto **ABB** - Always Be Building!
 
 - [CSS Tricks](https://css-tricks.com) - the name should be self-explanatory :). A huge collection of CSS guides, tips, and how-tos. You'll also find some HTML and JavaScript sprinkled in with everything.
 - [Flyon UI](https://flyonui.com/)- the Easiest Components Library For Tailwind CSS.
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) — a free and open-source TypeScript book covering fundamentals through advanced concepts.
 
 <!--  JavaScript starts here -->
 
