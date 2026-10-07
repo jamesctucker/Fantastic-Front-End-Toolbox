@@ -290,3 +290,4 @@ Make your motto **ABB** - Always Be Building!
 - [Medium](https://medium.com/) - some of the most helpful programming articles/tutorials I've come across have been on the Medium platform! Just search for your specific tool/language and you'll find a treasure trove of programming gold nuggets.
 - [Scotch.io](https://scotch.io) - fun and practical web development tutorials
 - [Scaler Blogs](https://www.scaler.com/blog/front-end-developer-roadmap/) - Navigate the tech career from beginner to expert with comprehensive roadmap articles.
+- [Nutilz](https://nutilz.com) - free browser-based developer tools and utilities including regex tester, JSON formatter, CSS clamp generator, and calculators. No sign-up required.
