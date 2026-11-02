@@ -135,6 +135,7 @@ Make your motto **ABB** - Always Be Building!
 - [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 - [JavaScript30](https://javascript30.com/)
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - a series of books diving deep into the core mechanisms of the JavaScript language.
+- [BestJSON: Preserve Large Numbers in JSON](https://bestjson.com/learn/json-large-numbers) — explains JavaScript number precision loss, token-preserving formatting, and safe string identifiers.
 
 #### React JS <span id="ReactJs"></span>
 
